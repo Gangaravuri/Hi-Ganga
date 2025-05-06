@@ -10,9 +10,9 @@ p    {color: red;}
 </head>
 <body>
 
-    <h1 style="color:blue;">Hello, This is Ruchitha</h1>
-    <p>Welcome to this website</p>
-    <div>This website is under development.</div>
+<h1 style="color:blue;">Hello, This is Ganga</h1>
+<p>Welcome to this website</p>
+<div>This website is under development.</div>
 
 </body>
 </html>
